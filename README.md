@@ -21,7 +21,8 @@
 - 🌱 I’m currently learning TypeScript and Python 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  <p><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> <figcaption align = "center"> <img src="/path/to/train.jpg" alt="JavaScript" title="JavaScript"/></p>
+  
+  <p> <figcaption align = "center"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'  alt="JavaScript" title="JavaScript"></p>
 
 <a href= https://github.com/noe4400?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption> </a>
 <a href= https://github.com/noe4400?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
