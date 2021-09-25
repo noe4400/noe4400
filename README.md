@@ -24,7 +24,7 @@
   
   <p> <figcaption align = "center"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'  alt="JavaScript" title="JavaScript"></p>
 
-<a href= https://github.com/noe4400?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption> </a>
+<a href= https://github.com/noe4400?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> <span>JavaScript</span> </a>
 <a href= https://github.com/noe4400?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/noe4400?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
 <a href= https://github.com/noe4400?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
